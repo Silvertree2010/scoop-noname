@@ -1,16 +1,16 @@
 {
-    "version": "0.2.2",
+    "version": "0.2.3",
     "description": "A calm, beautiful terminal front end for Claude Code",
     "homepage": "https://github.com/Silvertree2010/noname",
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Silvertree2010/noname/releases/download/v0.2.2/noname-x86_64-pc-windows-msvc.zip",
-            "hash": "ab079a0be9e5224ce8f412788832518fe1cdf1aec92c2681d96a914dc6e59f9c"
+            "url": "https://github.com/Silvertree2010/noname/releases/download/v0.2.3/noname-x86_64-pc-windows-msvc.zip",
+            "hash": "b30b019dcb6929e6ecafe03f039323cbbb671fb1a62206949f5b474a89c0b6f3"
         },
         "arm64": {
-            "url": "https://github.com/Silvertree2010/noname/releases/download/v0.2.2/noname-aarch64-pc-windows-msvc.zip",
-            "hash": "ae3277296c99548269d6b5bb8cca76f86e27c4747df138fbeee8da383cf31041"
+            "url": "https://github.com/Silvertree2010/noname/releases/download/v0.2.3/noname-aarch64-pc-windows-msvc.zip",
+            "hash": "78d10bdc1352e3819301c0b6a10eb0e277e7d486712f309d038b096588379e08"
         }
     },
     "bin": "noname.exe",
